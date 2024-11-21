@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Math on Hinode</title><link>https://mathbeyond.org/tags/math/</link><description>Recent content in Math on Hinode</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright © 2024 MBO.</copyright><lastBuildDate>Thu, 21 Nov 2024 16:15:08 -0500</lastBuildDate><atom:link href="https://mathbeyond.org/tags/math/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://mathbeyond.org/blog/introduction/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/introduction/</guid><description>&lt;p>&lt;strong>Welcome to Math &amp;amp; Beyond Odyssey: Embark on a Journey of Discovery and Mastery&lt;/strong>&lt;/p>
-&lt;p>In the vast universe of knowledge, mathematics serves as both a guiding star and a foundational pillar. It is a language that transcends cultures, a tool that unlocks the mysteries of the universe, and an art form that celebrates logic and creativity. Welcome to &amp;ldquo;Math &amp;amp; Beyond Odyssey,&amp;rdquo; where we embark on an exhilarating journey through the captivating world of mathematics and its boundless applications.&lt;/p></description></item><item><title>simultaneous linear equations reading</title><link>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</guid><description>&lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.25em" columnalign="right left" columnspacing="0em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>2&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>10&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>5&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mn>2&lt;/mn>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>24&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Math on Hinode</title><link>https://mathbeyond.org/tags/math/</link><description>Recent content in Math on Hinode</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright © 2024 MBO.</copyright><lastBuildDate>Thu, 21 Nov 2024 17:14:42 -0500</lastBuildDate><atom:link href="https://mathbeyond.org/tags/math/index.xml" rel="self" type="application/rss+xml"/><item><title>simultaneous linear equations reading</title><link>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</guid><description>&lt;ol>
+&lt;li>&lt;/li>
+&lt;/ol>
+
+
+
+ 
+
+
+
+ 
+ &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.25em" columnalign="right left" columnspacing="0em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>2&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>10&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>5&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mn>2&lt;/mn>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>24&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
 \begin{align}
 2x + y &amp;amp;= 10 \tag{1}
 \\
@@ -8,7 +18,9 @@
 &lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>
  
 
-&lt;p>answer key:&lt;/p>
+&lt;p>The elimination method is when you eliminate one variable, solve for the other one, then solve for the one you eliminated. You can multiply one equation by a number to eliminate a variable. The substitution method is when you substitute a variable with an expression. Personally, I only do substitution if a variable is already isolated.&lt;/p></description></item><item><title>answer key</title><link>https://mathbeyond.org/blog/answer-key/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/answer-key/</guid><description>&lt;ol>
+&lt;li>&lt;/li>
+&lt;/ol>
 
 
 
@@ -17,8 +29,10 @@
 
 
  
- &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mi>x&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>4&lt;/mn>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+ &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mstyle mathcolor="blue">&lt;mi>x&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>4&lt;/mn>&lt;/mstyle>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+\textcolor{blue}{
 x=4
+}
 &lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>
  
 
@@ -30,6 +44,8 @@ x=4
 
 
  
- &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mi>y&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>2&lt;/mn>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+ &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mstyle mathcolor="blue">&lt;mi>y&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>2&lt;/mn>&lt;/mstyle>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+\textcolor{blue}{
 y = 2
+}
 &lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span></description></item></channel></rss>
