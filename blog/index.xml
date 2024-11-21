@@ -1,2 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Hinode</title><link>https://mathbeyond.org/blog/</link><description>Recent content in Blog on Hinode</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright © 2024 MBO.</copyright><atom:link href="https://mathbeyond.org/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog title</title><link>https://mathbeyond.org/blog/chemistry-101-2024-11-20/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/chemistry-101-2024-11-20/</guid><description/></item><item><title>Introduction</title><link>https://mathbeyond.org/blog/introduction/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/introduction/</guid><description>&lt;p>&lt;strong>Welcome to Math &amp;amp; Beyond Odyssey: Embark on a Journey of Discovery and Mastery&lt;/strong>&lt;/p>
-&lt;p>In the vast universe of knowledge, mathematics serves as both a guiding star and a foundational pillar. It is a language that transcends cultures, a tool that unlocks the mysteries of the universe, and an art form that celebrates logic and creativity. Welcome to &amp;ldquo;Math &amp;amp; Beyond Odyssey,&amp;rdquo; where we embark on an exhilarating journey through the captivating world of mathematics and its boundless applications.&lt;/p></description></item><item><title>First post</title><link>https://mathbeyond.org/blog/first-post/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/first-post/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Hinode</title><link>https://mathbeyond.org/blog/</link><description>Recent content in Blog on Hinode</description><generator>Hugo</generator><language>en-us</language><copyright>Copyright © 2024 MBO.</copyright><atom:link href="https://mathbeyond.org/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://mathbeyond.org/blog/introduction/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/introduction/</guid><description>&lt;p>&lt;strong>Welcome to Math &amp;amp; Beyond Odyssey: Embark on a Journey of Discovery and Mastery&lt;/strong>&lt;/p>
+&lt;p>In the vast universe of knowledge, mathematics serves as both a guiding star and a foundational pillar. It is a language that transcends cultures, a tool that unlocks the mysteries of the universe, and an art form that celebrates logic and creativity. Welcome to &amp;ldquo;Math &amp;amp; Beyond Odyssey,&amp;rdquo; where we embark on an exhilarating journey through the captivating world of mathematics and its boundless applications.&lt;/p></description></item><item><title>simultaneous linear equations reading</title><link>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/linear-equation-101-2024-11-20/</guid><description>&lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mtable rowspacing="0.25em" columnalign="right left" columnspacing="0em">&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>2&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>10&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;mtr>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mn>5&lt;/mn>&lt;mi>x&lt;/mi>&lt;mo>+&lt;/mo>&lt;mn>2&lt;/mn>&lt;mi>y&lt;/mi>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd>&lt;mstyle scriptlevel="0" displaystyle="true">&lt;mrow>&lt;mrow>&lt;/mrow>&lt;mo>=&lt;/mo>&lt;mn>24&lt;/mn>&lt;/mrow>&lt;/mstyle>&lt;/mtd>&lt;mtd class ="mtr-glue">&lt;/mtd>&lt;mtd class ="mml-eqn-num">&lt;/mtd>&lt;/mtr>&lt;/mtable>&lt;annotation encoding="application/x-tex">
+\begin{align}
+2x + y &amp;amp;= 10 \tag{1}
+\\
+5x + 2y &amp;amp;= 24 \tag{2}
+\end{align}
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>
+ 
+
+&lt;p>answer key:&lt;/p>
+
+
+
+ 
+
+
+
+ 
+ &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mi>x&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>4&lt;/mn>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+x=4
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span>
+ 
+
+
+
+
+ 
+
+
+
+ 
+ &lt;span class="katex">&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block">&lt;semantics>&lt;mrow>&lt;mi>y&lt;/mi>&lt;mo>=&lt;/mo>&lt;mn>2&lt;/mn>&lt;/mrow>&lt;annotation encoding="application/x-tex">
+y = 2
+&lt;/annotation>&lt;/semantics>&lt;/math>&lt;/span></description></item><item><title>First post</title><link>https://mathbeyond.org/blog/first-post/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://mathbeyond.org/blog/first-post/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.&lt;/p></description></item></channel></rss>
